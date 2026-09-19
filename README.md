@@ -37,7 +37,7 @@
 
 ## 使用方式
 
-1. 打开仓库根目录的 `pangshu-ai-beginner-coach-v0.3.0.zip`，点击文件页面的下载按钮，解压得到 `pangshu-ai-beginner-coach` 文件夹。若使用 **Code → Download ZIP** 下载整个仓库，需要再解压其中的版本安装包。
+1. 选择 **Code → Download ZIP** 下载仓库，解压后将文件夹命名为 `pangshu-ai-beginner-coach`，其根目录直接包含 `SKILL.md`、`agents/` 和 `references/`。也可以下载仓库里的 `pangshu-ai-beginner-coach-v0.3.0.zip` 独立安装包；该包是 v0.3.0 发布快照，后续更新以仓库源文件为准。
 2. 按你使用的 Agent 的安装说明，导入整个文件夹或放入它支持的 Skills 目录。保留 `SKILL.md`、`references/` 和 `agents/`，不要只复制一个文件。
 3. 刷新技能列表或重新打开对话，明确调用这个 Skill，再用一个小任务检查效果。
 
@@ -79,7 +79,7 @@ Skill 资源按需读取，详见 `references/`。安装成功不等于宿主一
 
 ## 回答从哪里来？
 
-回答由你使用的模型生成，结合当前可见材料、这份 Skill 的教学资源和模型通用知识；需要联网核实时，还取决于宿主是否提供联网能力。它不会自动查询胖叔电脑里的资料，也不能保证每句话都来自胖叔。详细依据见安装包内的 `references/sources.md`。
+回答由你使用的模型生成，结合当前可见材料、这份 Skill 的教学资源和模型通用知识；需要联网核实时，还取决于宿主是否提供联网能力。它不会自动查询胖叔电脑里的资料，也不能保证每句话都来自胖叔。详细依据见 [来源说明](references/sources.md)。
 
 ## 当前能力与验证范围
 
